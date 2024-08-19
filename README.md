@@ -22,7 +22,7 @@
 Alternatively, clone the repository and build the project:
 
 ```sh
-git clone https://github.com/yourusername/hetzner_multi_dyn_dns.git](https://github.com/Lexxn0x3/Hetzner-Multi-DynDNS
+git clone https://github.com/yourusername/hetzner_multi_dyn_dns.git
 cd hetzner_multi_dyn_dns
 cargo build --release
 ```
