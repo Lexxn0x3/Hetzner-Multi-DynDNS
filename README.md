@@ -9,7 +9,6 @@
 - **Dynamic DNS Updates**: Automatically updates your DNS records when your IP address changes.
 - **Multi-Zone Support**: Manage DNS records across multiple zones (domains).
 - **Efficient Zone Caching**: Uses a local cache to reduce API calls by storing zone details.
-- **Configurable Logging**: Set log levels to control the verbosity of the output.
 
 ## Installation
 
@@ -38,9 +37,6 @@ api_token = "your_hetzner_api_token_here"
 
 # Interval in seconds between IP checks
 interval_secs = 300
-
-# Log level: "info", "debug", "trace", or "error"
-log_level = "info"
 
 # DNS records to be updated
 [[records]]
