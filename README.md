@@ -23,7 +23,7 @@ Alternatively, clone the repository and build the project:
 
 ```sh
 git clone https://github.com/Lexxn0x3/Hetzner-Multi-DynDNS/
-cd hetzner_multi_dyn_dns
+cd Hetzner-Multi-DynDNS
 cargo build --release
 ```
 
